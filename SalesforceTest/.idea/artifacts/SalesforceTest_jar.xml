@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SalesforceTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SalesforceTest_jar</output-path>
+    <root id="archive" name="SalesforceTest.jar">
+      <element id="module-output" name="SalesforceTest" />
+    </root>
+  </artifact>
+</component>
